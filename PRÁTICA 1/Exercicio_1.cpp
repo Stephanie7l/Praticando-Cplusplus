@@ -1,5 +1,5 @@
 /*==============================================================================
-PRÁTICA 1 - EXERCÍCIO 1: Imprima "Hello World" na tela
+PRÁTICA 1: Imprima "Hello World" na tela
 Made by Stéphanie Pereira Barbosa on 01/04/2023
 ==============================================================================*/
 
